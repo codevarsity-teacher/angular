@@ -7,5 +7,15 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "lessons":[
+    {
+      "id":1,
+      "lesson":"Introduction to Angular 8"
+    },
+     {
+      "id":2,
+      "lesson":"Angular 8 Architecture"
+    }
+    ]
 }
