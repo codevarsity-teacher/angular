@@ -1,6 +1,5 @@
 {
   "profile": { "name": "user1" },
-  "appearance":{
     "headerMain":[{
         "background":"linear-gradient(to bottom right, red, yellow)",
         "width":"100%",
@@ -12,5 +11,4 @@
         "color":"black",
         "weight":"500"
      }]
-}
 }
