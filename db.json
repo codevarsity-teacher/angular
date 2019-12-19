@@ -4,7 +4,7 @@
      "headerBackground":"rgb(40, 87, 91)",
      "headerWidth":"100%",
      "headerHeight":"3em",
-     "leftSidebarBackground":"white",
+     "leftSidebarBackground":"rgb(220, 183, 121)",
      "rightSidebarBackground":"white"
    },
    "logo":{
