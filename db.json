@@ -1,7 +1,7 @@
 {
   "profile": { "name": "user1" },
   "layoutConfig":{
-     "headerBackground":"rgb(151, 117,,35)",
+     "headerBackground":"rgb(151, 117,35)",
      "headerWidth":"100%",
      "headerHeight":"3em",
      "leftSidebarBackground":"rgb(81, 56, 21)",
