@@ -1,14 +1,14 @@
 {
   "profile": { "name": "user1" },
-    "headerMain":[{
+    "headerMain":{
         "background":"linear-gradient(to bottom right, red, yellow)",
         "width":"100%",
         "height":"3em"
-     }],
-     "logo":[{
+     },
+     "logo":{
         "font-family":"Calibri",
         "font-size":"2em",
         "color":"black",
         "weight":"500"
-     }]
+     }
 }
