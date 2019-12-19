@@ -1,11 +1,11 @@
 {
   "profile": { "name": "user1" },
   "layoutConfig":{
-     "headerBackground":"rgb(40, 87, 91)",
+     "headerBackground":"rgb(151, 117,,35)",
      "headerWidth":"100%",
      "headerHeight":"3em",
-     "leftSidebarBackground":"rgb(220, 183, 121)",
-     "rightSidebarBackground":"rgb(142, 176, 155)"
+     "leftSidebarBackground":"rgb(81, 56, 21)",
+     "rightSidebarBackground":"rgb(16, 43, 47)"
    },
    "logo":{
       "font-family":"Calibri",
