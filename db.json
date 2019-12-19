@@ -6,7 +6,7 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "user1" },
-  "appearance":{
+  "appearance":{[
     "main":{
         "background":"linear-gradient(to bottom right, red, yellow)",
         "width":"100%",
@@ -17,6 +17,6 @@
         "font-size":"2em",
         "color":"black",
         "weight":"500"
-     }
+     }]
   }
 }
