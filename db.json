@@ -1,42 +1,9 @@
 {
-    "application":[{
-        "appearance":[
-            {
-                "headerMenu":[
-                    {
-                        "userid":"1",
-                        "main":{
-                            "background":"linear-gradient(to bottom right, red, yellow)",
-                            "width":"100%",
-                            "height":"3em"
-                        },
-                        "logo":{
-                            "font-family":"Calibri",
-                            "font-size":"2em",
-                            "color":"black",
-                            "weight":"500"
-                        }
-                        
-                    },
-                    {
-                        "userid":"2",
-                        "main":{
-                            "background":"linear-gradient(to bottom right, blue, green)",
-                            "width":"100%",
-                            "height":"2em"
-                        },
-                        "logo":{
-                            "font-family":"Calibri",
-                            "font-size":"2em",
-                            "color":"black",
-                            "weight":"500"
-                        }
-                        
-                    }      
-                ]
-            }
-        ]
-    }
-        
-    ]
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
 }
