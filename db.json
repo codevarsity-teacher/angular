@@ -7,11 +7,11 @@
   ],
   "profile": { "name": "user1" },
   "appearance":{
-    "header":{
+    "header":[{
        "background":"linear-gradient(to bottom right, red, yellow)",
        "width":"100%",
        "height":"3em"
-    }
+    }]
   }
   ]
 }
