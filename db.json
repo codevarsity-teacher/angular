@@ -10,5 +10,11 @@
       "font-size":"2em",
       "color":"black",
       "weight":"500"
+   },
+   "leftSidebar":{
+     "background":"white"
+   },
+   "rightSidebar":{
+     "background":"white"
    }
 }
