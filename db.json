@@ -1,21 +1,42 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
+    "application":[{
+        "appearance":[
+            {
+                "headerMenu":[
+                    {
+                        "userid":"1",
+                        "main":{
+                            "background":"linear-gradient(to bottom right, red, yellow)",
+                            "width":"100%",
+                            "height":"3em"
+                        },
+                        "logo":{
+                            "font-family":"Calibri",
+                            "font-size":"2em",
+                            "color":"black",
+                            "weight":"500"
+                        }
+                        
+                    },
+                    {
+                        "userid":"2",
+                        "main":{
+                            "background":"linear-gradient(to bottom right, blue, green)",
+                            "width":"100%",
+                            "height":"2em"
+                        },
+                        "logo":{
+                            "font-family":"Calibri",
+                            "font-size":"2em",
+                            "color":"black",
+                            "weight":"500"
+                        }
+                        
+                    }      
+                ]
+            }
+        ]
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "lessons":[
-    {
-      "id":1,
-      "lesson":"Introduction to Angular 8"
-    },
-     {
-      "id":2,
-      "lesson":"Angular 8 Architecture"
-    }
+        
     ]
 }
