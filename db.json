@@ -5,15 +5,8 @@
      "headerWidth":"100%",
      "headerHeight":"3em",
      "leftSidebarBackground":"rgb(3, 8, 2)",
-     "rightSidebarBackground":"rgb(120, 149, 106)"
-   },
-   "logo":{
-      "font-family":"Calibri",
-      "font-size":"2em",
-      "color":"black",
-      "weight":"500"
-   },
-  "menu":[
+     "rightSidebarBackground":"rgb(120, 149, 106)",
+     "menu":[
   	{
   	   "id":"1",
 	   "level": "0",
@@ -88,4 +81,11 @@
            ]
          }
   ]
+   },
+   "logo":{
+      "font-family":"Calibri",
+      "font-size":"2em",
+      "color":"black",
+      "weight":"500"
+   }
 }
