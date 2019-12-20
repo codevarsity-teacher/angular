@@ -12,5 +12,80 @@
       "font-size":"2em",
       "color":"black",
       "weight":"500"
-   }
+   },
+  "menu":[
+  	{
+  	   "id":"1",
+	   "level": "0",
+	   "text":"Dashboard",
+	   "image":"dashboard.png",
+           "child":[]
+        },
+        {
+           "id":"2",
+	   "level": "0",
+	   "text":"HR",
+	   "image":"hr.png",
+           "child":[
+                   {
+	             "id":"3",
+	             "level": "1",
+	             "text":"Employment Application",
+	             "image":"",
+                     "child":[]
+		    },
+                   {
+ 	             "id":"4",
+	             "level": "1",
+	             "text":"Requisition",
+	             "image":"",
+                     "child":[]
+                   },
+                   {
+ 	             "id":"5",
+	             "level": "1",
+	             "text":"Resume Upload",
+	             "image":"",
+                     "child":[]
+                   }
+           ]
+         },
+         { 
+           "id":"6",
+	   "level": "0",
+	   "text":"Business Development and Proposal",
+	   "image":"development.png",
+           "child":[
+                   {
+	             "id":"7",
+	             "level": "1",
+	             "text":"All",
+	             "image":"",
+                     "child":[
+                        {
+ 	                   "id":"8",
+	                   "level": "2",
+	                   "text":"Auto Imported",
+	                   "image":"",
+                           "child":[]
+                        },
+                        {
+ 	                   "id":"9",
+	                   "level": "2",
+	                   "text":"Final Interest",
+	                   "image":"",
+                           "child":[]
+                        },
+                        {
+ 	                   "id":"10",
+	                   "level": "2",
+	                   "text":"Pursuit",
+	                   "image":"",
+                           "child":[]
+                        }
+                      ]
+		    }
+           ]
+         }
+  ]
 }
